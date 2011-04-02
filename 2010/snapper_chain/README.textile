@@ -29,8 +29,11 @@ h2. Sample
 
 h3. Input
 
-<pre><code>
-4<br />1 0<br />1 1<br />4 0</br />4 47
+<pre><code>4
+1 0
+1 1
+4 0
+4 47
 </pre></code>
 
 h3. Output
